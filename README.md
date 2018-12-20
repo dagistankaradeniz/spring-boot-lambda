@@ -27,3 +27,7 @@ To build the image. First build the application, then build the docker image
 # Test
 
     curl http://localhost:8080/languages
+
+### Source
+
+https://dzone.com/articles/aws-lambda-with-spring-boot
